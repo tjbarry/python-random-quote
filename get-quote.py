@@ -1,4 +1,7 @@
+
+
 import random
+
 def Alfred():
 #  print("Keep it logically awesome.")
 
